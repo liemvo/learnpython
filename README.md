@@ -1,5 +1,5 @@
 # learnpython
-Learning Pythong 3
+Learning Python 3
 
 This repo has created for reference. If you'd like to share a project for others learn Python 3. Please comment or create pull request
 
